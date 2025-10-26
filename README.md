@@ -43,7 +43,22 @@ Each burst is defined by:
 •	AxSIZE: Size of each beat (bytes)  
 •	AxBURST: Burst type  
  # OPERATION FLOW  
- <img width="600" height="1000" alt="image" src="https://github.com/user-attachments/assets/a4dd399f-151b-48b3-8039-0655794a3418" />
+ <img width="600" height="1000" alt="image" src="https://github.com/user-attachments/assets/a4dd399f-151b-48b3-8039-0655794a3418" />  
+
+ # WAVEFORMS  
+ ## TEST_CASE-1  
+ ![WhatsApp Image 2025-10-26 at 4 45 13 PM](https://github.com/user-attachments/assets/ece4b950-84fc-489c-bdcd-d7ea0a1d6157)  
+ ## TEST_CASE-2  
+ ![WhatsApp Image 2025-10-26 at 4 45 19 PM](https://github.com/user-attachments/assets/f5b86892-1766-421f-a94a-2b5a390b2e85)  
+ ## TEST_CASE-3  
+ ![WhatsApp Image 2025-10-26 at 4 45 26 PM](https://github.com/user-attachments/assets/fb275a50-5935-4145-8483-b3661da84c4c)  
+ ## TEST_CASE-4
+ ![WhatsApp Image 2025-10-26 at 4 45 31 PM](https://github.com/user-attachments/assets/fc5c5850-8e08-4b9f-aa47-7b927b448b17)
+
+
+
+
+ 
 
 
 
